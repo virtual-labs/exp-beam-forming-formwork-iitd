@@ -1,0 +1,77 @@
+
+/home/runner/work/exp-beam-forming-formwork-iitd/exp-beam-forming-formwork-iitd/experiment/simulation/js/layout.js
+   9:10  warning  'nextDrawerItem' is defined but never used  no-unused-vars
+  20:10  warning  'backDrawerItem' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-beam-forming-formwork-iitd/exp-beam-forming-formwork-iitd/experiment/simulation/js/main.js
+   189:7   warning  'ChartGraph' is assigned a value but never used     no-unused-vars
+   193:6   warning  'Graph1' is not defined                             no-undef
+   197:6   warning  'Graph2' is not defined                             no-undef
+   201:6   warning  'Graph3' is not defined                             no-undef
+   205:6   warning  'Graph4' is not defined                             no-undef
+   221:23  warning  'Chart' is not defined                              no-undef
+   255:5   warning  'isPerformNext' is assigned a value but never used  no-unused-vars
+   280:7   warning  'opacity' is assigned a value but never used        no-unused-vars
+   286:7   warning  'hideAll' is assigned a value but never used        no-unused-vars
+   286:28  warning  'disp' is assigned a value but never used           no-unused-vars
+   292:7   warning  'showAll' is assigned a value but never used        no-unused-vars
+   292:28  warning  'disp' is assigned a value but never used           no-unused-vars
+   299:7   warning  'set' is assigned a value but never used            no-unused-vars
+   332:29  warning  'speed' is assigned a value but never used          no-unused-vars
+   339:15  warning  'Typed' is not defined                              no-undef
+   360:19  warning  'src' is not defined                                no-undef
+   492:17  warning  'anime' is not defined                              no-undef
+   646:10  warning  'cursorPointer' is defined but never used           no-unused-vars
+   811:10  warning  'i' is not defined                                  no-undef
+   812:18  warning  'i' is not defined                                  no-undef
+   814:10  warning  'i' is not defined                                  no-undef
+   815:11  warning  'i' is not defined                                  no-undef
+   815:28  warning  'i' is not defined                                  no-undef
+   815:48  warning  'i' is not defined                                  no-undef
+   818:25  warning  'i' is not defined                                  no-undef
+   842:6   warning  'intro' is not defined                              no-undef
+   870:18  warning  'anime' is not defined                              no-undef
+   892:15  warning  'intru' is not defined                              no-undef
+   892:27  warning  'Typed' is not defined                              no-undef
+   910:16  warning  'intru' is not defined                              no-undef
+   926:6   warning  'objective' is not defined                          no-undef
+   942:5   warning  'anime' is not defined                              no-undef
+  1089:6   warning  'step2' is not defined                              no-undef
+  1143:9   warning  'anime' is not defined                              no-undef
+  1175:9   warning  'anime' is not defined                              no-undef
+  1210:9   warning  'anime' is not defined                              no-undef
+  1266:6   warning  'step3' is not defined                              no-undef
+  1351:9   warning  'anime' is not defined                              no-undef
+  1458:9   warning  'anime' is not defined                              no-undef
+  1565:9   warning  'anime' is not defined                              no-undef
+  1650:6   warning  'step4' is not defined                              no-undef
+  1711:7   warning  'anime' is not defined                              no-undef
+  1727:69  warning  'a' is not defined                                  no-undef
+  1734:7   warning  'anime' is not defined                              no-undef
+  1792:6   warning  'step5' is not defined                              no-undef
+  1856:27  warning  'anime' is not defined                              no-undef
+  1877:9   warning  'anime' is not defined                              no-undef
+  1900:9   warning  'anime' is not defined                              no-undef
+  2022:6   warning  'step6' is not defined                              no-undef
+  2130:11  warning  'anime' is not defined                              no-undef
+  2166:11  warning  'anime' is not defined                              no-undef
+  2200:11  warning  'anime' is not defined                              no-undef
+  2225:11  warning  'anime' is not defined                              no-undef
+  2254:11  warning  'anime' is not defined                              no-undef
+  2283:11  warning  'anime' is not defined                              no-undef
+  2326:6   warning  'completed' is not defined                          no-undef
+  2363:7   warning  'backDrawerItem' is not defined                     no-undef
+  2364:7   warning  'backProgressBar' is not defined                    no-undef
+  2374:9   warning  'nextDrawerItem' is not defined                     no-undef
+  2375:9   warning  'nextProgressBar' is not defined                    no-undef
+  2378:12  warning  Empty block statement                               no-empty
+  2430:10  warning  'getCursor' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-beam-forming-formwork-iitd/exp-beam-forming-formwork-iitd/experiment/simulation/js/progressBar.js
+   2:7  warning  'prevBtns' is assigned a value but never used         no-unused-vars
+   3:7  warning  'nextBtns' is assigned a value but never used         no-unused-vars
+  12:7  warning  'nextProgressBar' is assigned a value but never used  no-unused-vars
+  19:7  warning  'backProgressBar' is assigned a value but never used  no-unused-vars
+
+✖ 68 problems (0 errors, 68 warnings)
+
