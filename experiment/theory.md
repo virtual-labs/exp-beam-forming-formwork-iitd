@@ -36,6 +36,6 @@ Traditional method type is labor intensive and time consuming work. It demands s
 <div style="float: left; width:100%;">
 
 #### Note:<br>
-a).	Before starting the formwork, the area should be clean. A plain area is supposed to be taken because working on plane platform will be easier. The formwork materials should be handled properly.<br> 
-b).	Apply form coating agent to new sheathing atleast 36 hours before being used. A second application should then be made before being used for the first time.<br>
+-  Before starting the formwork, the area should be clean. A plain area is supposed to be taken because working on plane platform will be easier. The formwork materials should be handled properly.<br> 
+-  Apply form coating agent to new sheathing atleast 36 hours before being used. A second application should then be made before being used for the first time.<br>
 </div>
