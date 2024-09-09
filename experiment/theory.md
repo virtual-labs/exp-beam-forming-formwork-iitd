@@ -32,3 +32,10 @@ Traditional method type is labor intensive and time consuming work. It demands s
 8. <b>Beam Forming Support with Extension (BFS):</b> Used to support the vertical side of beam. We use extension because the support height will be less than the beam depth.<br>
 
 </div>
+
+<div style="float: left; width:100%;">
+
+#### Note:<br>
+a).	Before starting the formwork, the area should be clean. A plain area is supposed to be taken because working on plane platform will be easier. The formwork materials should be handled properly.<br> 
+b).	Apply form coating agent to new sheathing atleast 36 hours before being used. A second application should then be made before being used for the first time.<br>
+</div>
